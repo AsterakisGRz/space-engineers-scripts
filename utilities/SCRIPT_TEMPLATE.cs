@@ -1,6 +1,6 @@
 // ==========================================
 // Space Engineers Script
-// Author: AsterakisGR
+// Author: <Name>
 // Purpose: <WHAT THIS SCRIPT DOES>
 // Blocks Required: <BLOCK TYPES + TAGS>
 // Grid: Small / Large / Both
