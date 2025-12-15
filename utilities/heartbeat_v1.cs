@@ -1,12 +1,12 @@
 // ==========================================
 // Space Engineers Script
 // Author: AsterakisGR
-// Purpose: Displays a heartbeat message in the programmable block
+// Purpose: Confirms that the programmable block script is running
 // Blocks Required: Programmable Block
 // Grid: Both
 // Version: 1.0
 // Status: Tested
-// Last Updated: 2025-12-15
+// Last Updated: 15-12-2025
 // ==========================================
 
 public Program()
@@ -17,5 +17,4 @@ public Program()
 public void Main(string argument)
 {
     Echo("Heartbeat OK");
-    Echo("Time: " + DateTime.Now.ToString("HH:mm:ss"));
 }
