@@ -1,16 +1,16 @@
 // ==========================================
 // Space Engineers Script
-// Author: <AsterakisGR>
+// Author: AsterakisGR
 // Purpose: <WHAT THIS SCRIPT DOES>
 // Blocks Required: <BLOCK TYPES + TAGS>
 // Grid: Small / Large / Both
 // Version: 0.1
 // Status: Untested
-// Last Updated: YYYY-MM-DD
+// Last Updated: DD-MM-2025
 // ==========================================
 
 // ---------- CONFIG ----------
-// Tags, names, constants ONLY
+// Only constants, tags, and names go here
 // ----------------------------
 
 public Program()
@@ -20,5 +20,5 @@ public Program()
 
 public void Main(string argument)
 {
-    // Main logic here
+    // Script logic goes here
 }
